@@ -1,5 +1,6 @@
 
-# Interface_Inicial_Instagram
+# Interface inicial do Instagram
+
  - Utilizando HTML5, CSS3, FlexBox;
  - Site totalmente responsivo;
  - Layout para PCs e dispositivos móveis;
